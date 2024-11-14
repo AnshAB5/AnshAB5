@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Mechanical Engineering at IIT Guwahati
 - 👯 I’m looking to collaborate on Natural Language Processing Projects
 - 📫 How to reach me:  **bisaryaanshx@gmail.com or b.ansh@iitg.ac.in**
-- ⚡ Fun fact: I am a district level Swimmer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
