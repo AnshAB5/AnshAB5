@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Bisarya</h1>
 
 
-- 🔭 I’m currently working on chatter Detection using advanced Machine Learning and Deep Learning algorithms
+- 🔭 I’m currently working on Chatter detection using advanced Machine Learning and Deep Learning algorithms
 - 🌱 I’m currently learning Mechanical Engineering at IIT Guwahati
 - 👯 I’m looking to collaborate on Natural Language Processing Projects
 - 📫 How to reach me:  **bisaryaanshx@gmail.com or b.ansh@iitg.ac.in**
